@@ -1,0 +1,10 @@
+{
+    "js": {
+        "src": ["app/js/*.js"],
+        "dest": "dist"
+    },
+    "css": {
+        "src": ["app/css/*.css"],
+        "dest": "dist"
+    }
+}
